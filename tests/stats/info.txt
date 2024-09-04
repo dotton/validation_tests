@@ -1,2 +1,3 @@
 Tests for package stats
 - coefficients and SEs from a unvariate model with continuous and factor predictors. SEs were checked against Stata.
+- confidence intervals for lm objects (same unvariate model with continuous and factor predictors as above)
